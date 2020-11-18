@@ -1,0 +1,2237 @@
+@media (min-width: 576px) {
+  
+  
+body {
+  background-image: linear-gradient(to left, #000046, #1CB5E0, #000046);
+  animation-name: isd;
+  animation-duration: 11s1s
+}
+
+
+
+
+
+
+
+
+.haw {
+  border: solid 0px;
+
+
+
+
+}
+
+.icon {
+  border: solid 0px;
+
+
+
+
+
+}
+
+
+.rasm {
+  height: 230px;
+
+  border-radius: 500px;
+  position: relative;
+  animation-name: ops;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+
+
+
+}
+
+@keyframes ops {
+  10% {
+    transform: scale(1.11);
+    box-shadow: 0px 0px 100px 0px white;
+  }
+
+
+
+
+
+}
+
+
+.text2 {
+  font-family: serif;
+  color: black;
+  font-size: 20px;
+  background: white;
+  padding-top: 9px;
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-bottom: 9px;
+  border-radius: 50px;
+
+
+}
+
+
+
+
+
+
+.insta {
+  color: white;
+  font-size: 40px;
+  position: relative;
+  top: 150px;
+
+  text-decoration: none;
+  padding-left: 70px;
+  padding-right: 80px;
+  top: 100px;
+
+
+
+}
+
+.hhr {
+  border: solid 3px white;
+  border-radius: 20px;
+
+}
+
+.jss {
+  height: 60px;
+  position: relative;
+
+
+}
+
+.instakam {
+  border: solid 0px;
+  background: black;
+  border-radius: 40px;
+
+
+
+}
+
+.instpos {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  border-radius: 50px;
+
+}
+
+.op {
+  height: 40px;
+  position: relative;
+  top: 13px;
+  animation-name: itsa;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  border-radius: 500px;
+  left: 7px;
+
+}
+
+@keyframes itsa {
+  10% {
+    box-shadow: 0px 0px 20px 0px white;
+    transform: rotate(500deg);
+  }
+
+  20% {
+    box-shadow: 0px 0px 20px 0px red;
+    transform: rotate(500deg);
+  }
+
+  30% {
+    box-shadow: 0px 0px 20px 0px orange;
+    transform: rotate(500deg);
+  }
+
+  40% {
+    box-shadow: 0px 0px 20px 0px skyblue;
+    transform: rotate(500deg);
+  }
+
+
+
+
+
+
+}
+
+
+
+.exp {
+  color: black;
+  position: relative;
+  right: 200px;
+  font-size: 30px;
+  top: 170px;
+
+
+
+
+}
+
+.instpos:hover {
+  color: yellow;
+
+}
+
+.opp {
+  height: 40px;
+  position: relative;
+  top: 12px;
+  border-radius: 50px;
+  left: 60px;
+  animation-name: usn;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+
+}
+
+@keyframes usn {
+
+  10% {
+    box-shadow: 0px 0px 20px 0px red;
+    transform: rotate(500deg);
+  }
+
+  20% {
+    box-shadow: 0px 0px 20px 0px white;
+    transform: rotate(500deg);
+  }
+
+  30% {
+    box-shadow: 0px 0px 20px 0px skyblue;
+    transform: rotate(500deg);
+  }
+
+  40% {
+    box-shadow: 0px 0px 20px 0px orange;
+    transform: rotate(500deg);
+  }
+
+}
+
+.iks {
+  height: 40px;
+  position: relative;
+  top: 7px;
+  right: 30px;
+  animation-name: insga;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  border-radius: 50px;
+
+}
+
+@keyframes insga {
+  10% {
+    transform: scale(1, 00);
+  }
+
+
+
+
+
+
+}
+
+.mks {
+  height: 40px;
+  position: relative;
+  top: 7px;
+  left: 30px;
+  animation-name: snap123;
+  animation-iteration-count: infinite;
+  animation-duration: 1s;
+  border-radius: 500px;
+
+}
+
+
+
+@keyframes sanp123 {
+  10% {
+    transform: scale(1, 00);
+  }
+
+
+
+
+
+
+}
+
+.shahokurdsh {
+  text-decoration: none;
+  color: black;
+
+
+
+}  
+  
+  
+}
+
+@media (min-width: 768px) {
+  
+  
+  
+  body {
+    background-image: linear-gradient(to left, #000046, #1CB5E0, #000046);
+    animation-name: isd;
+    animation-duration: 11s1s
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  .haw {
+    border: solid 0px;
+  
+  
+  
+  
+  }
+  
+  .icon {
+    border: solid 0px;
+  
+  
+  
+  
+  
+  }
+  
+  
+  .rasm {
+    height: 230px;
+  
+    border-radius: 500px;
+    position: relative;
+    animation-name: ops;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+  
+  
+  
+  }
+  
+  @keyframes ops {
+    10% {
+      transform: scale(1.11);
+      box-shadow: 0px 0px 100px 0px white;
+    }
+  
+  
+  
+  
+  
+  }
+  
+  
+  .text2 {
+    font-family: serif;
+    color: black;
+    font-size: 20px;
+    background: white;
+    padding-top: 9px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 9px;
+    border-radius: 50px;
+  
+  
+  }
+  
+  
+  
+  
+  
+  
+  .insta {
+    color: white;
+    font-size: 40px;
+    position: relative;
+    top: 150px;
+  
+    text-decoration: none;
+    padding-left: 70px;
+    padding-right: 80px;
+    top: 100px;
+  
+  
+  
+  }
+  
+  .hhr {
+    border: solid 3px white;
+    border-radius: 20px;
+  
+  }
+  
+  .jss {
+    height: 60px;
+    position: relative;
+  
+  
+  }
+  
+  .instakam {
+    border: solid 0px;
+    background: black;
+    border-radius: 40px;
+  
+  
+  
+  }
+  
+  .instpos {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    border-radius: 50px;
+  
+  }
+  
+  .op {
+    height: 40px;
+    position: relative;
+    top: 13px;
+    animation-name: itsa;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    border-radius: 500px;
+    left: 7px;
+  
+  }
+  
+  @keyframes itsa {
+    10% {
+      box-shadow: 0px 0px 20px 0px white;
+      transform: rotate(500deg);
+    }
+  
+    20% {
+      box-shadow: 0px 0px 20px 0px red;
+      transform: rotate(500deg);
+    }
+  
+    30% {
+      box-shadow: 0px 0px 20px 0px orange;
+      transform: rotate(500deg);
+    }
+  
+    40% {
+      box-shadow: 0px 0px 20px 0px skyblue;
+      transform: rotate(500deg);
+    }
+  
+  
+  
+  
+  
+  
+  }
+  
+  
+  
+  .exp {
+    color: black;
+    position: relative;
+    right: 200px;
+    font-size: 30px;
+    top: 170px;
+  
+  
+  
+  
+  }
+  
+  .instpos:hover {
+    color: yellow;
+  
+  }
+  
+  .opp {
+    height: 40px;
+    position: relative;
+    top: 12px;
+    border-radius: 50px;
+    left: 60px;
+    animation-name: usn;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+  
+  }
+  
+  @keyframes usn {
+  
+    10% {
+      box-shadow: 0px 0px 20px 0px red;
+      transform: rotate(500deg);
+    }
+  
+    20% {
+      box-shadow: 0px 0px 20px 0px white;
+      transform: rotate(500deg);
+    }
+  
+    30% {
+      box-shadow: 0px 0px 20px 0px skyblue;
+      transform: rotate(500deg);
+    }
+  
+    40% {
+      box-shadow: 0px 0px 20px 0px orange;
+      transform: rotate(500deg);
+    }
+  
+  }
+  
+  .iks {
+    height: 40px;
+    position: relative;
+    top: 7px;
+    right: 30px;
+    animation-name: insga;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    border-radius: 50px;
+  
+  }
+  
+  @keyframes insga {
+    10% {
+      transform: scale(1, 00);
+    }
+  
+  
+  
+  
+  
+  
+  }
+  
+  .mks {
+    height: 40px;
+    position: relative;
+    top: 7px;
+    left: 30px;
+    animation-name: snap123;
+    animation-iteration-count: infinite;
+    animation-duration: 1s;
+    border-radius: 500px;
+  
+  }
+  
+  
+  
+  @keyframes sanp123 {
+    10% {
+      transform: scale(1, 00);
+    }
+  
+  
+  
+  
+  
+  
+  }
+  
+  .shahokurdsh {
+    text-decoration: none;
+    color: black;
+  
+  
+  
+  }
+}
+
+@media (min-width: 992px) {
+body {
+  background-image: linear-gradient(to left, #000046, #1CB5E0, #000046);
+  animation-name: isd;
+  animation-duration: 11s1s
+}
+
+
+
+
+
+
+
+
+.haw {
+  border: solid 0px;
+
+
+
+
+}
+
+.icon {
+  border: solid 0px;
+
+
+
+
+
+}
+
+
+.rasm {
+  height: 230px;
+
+  border-radius: 500px;
+  position: relative;
+  animation-name: ops;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+
+
+
+}
+
+@keyframes ops {
+  10% {
+    transform: scale(1.11);
+    box-shadow: 0px 0px 100px 0px white;
+  }
+
+
+
+
+
+}
+
+
+.text2 {
+  font-family: serif;
+  color: black;
+  font-size: 20px;
+  background: white;
+  padding-top: 9px;
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-bottom: 9px;
+  border-radius: 50px;
+
+
+}
+
+
+
+
+
+
+.insta {
+  color: white;
+  font-size: 40px;
+  position: relative;
+  top: 150px;
+
+  text-decoration: none;
+  padding-left: 70px;
+  padding-right: 80px;
+  top: 100px;
+
+
+
+}
+
+.hhr {
+  border: solid 3px white;
+  border-radius: 20px;
+
+}
+
+.jss {
+  height: 60px;
+  position: relative;
+
+
+}
+
+.instakam {
+  border: solid 0px;
+  background: black;
+  border-radius: 40px;
+
+
+
+}
+
+.instpos {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  border-radius: 50px;
+
+}
+
+.op {
+  height: 40px;
+  position: relative;
+  top: 13px;
+  animation-name: itsa;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  border-radius: 500px;
+  left: 7px;
+
+}
+
+@keyframes itsa {
+  10% {
+    box-shadow: 0px 0px 20px 0px white;
+    transform: rotate(500deg);
+  }
+
+  20% {
+    box-shadow: 0px 0px 20px 0px red;
+    transform: rotate(500deg);
+  }
+
+  30% {
+    box-shadow: 0px 0px 20px 0px orange;
+    transform: rotate(500deg);
+  }
+
+  40% {
+    box-shadow: 0px 0px 20px 0px skyblue;
+    transform: rotate(500deg);
+  }
+
+
+
+
+
+
+}
+
+
+
+.exp {
+  color: black;
+  position: relative;
+  right: 200px;
+  font-size: 30px;
+  top: 170px;
+
+
+
+
+}
+
+.instpos:hover {
+  color: yellow;
+
+}
+
+.opp {
+  height: 40px;
+  position: relative;
+  top: 12px;
+  border-radius: 50px;
+  left: 60px;
+  animation-name: usn;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+
+}
+
+@keyframes usn {
+
+  10% {
+    box-shadow: 0px 0px 20px 0px red;
+    transform: rotate(500deg);
+  }
+
+  20% {
+    box-shadow: 0px 0px 20px 0px white;
+    transform: rotate(500deg);
+  }
+
+  30% {
+    box-shadow: 0px 0px 20px 0px skyblue;
+    transform: rotate(500deg);
+  }
+
+  40% {
+    box-shadow: 0px 0px 20px 0px orange;
+    transform: rotate(500deg);
+  }
+
+}
+
+.iks {
+  height: 40px;
+  position: relative;
+  top: 7px;
+  right: 30px;
+  animation-name: insga;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  border-radius: 50px;
+
+}
+
+@keyframes insga {
+  10% {
+    transform: scale(1, 00);
+  }
+
+
+
+
+
+
+}
+
+.mks {
+  height: 40px;
+  position: relative;
+  top: 7px;
+  left: 30px;
+  animation-name: snap123;
+  animation-iteration-count: infinite;
+  animation-duration: 1s;
+  border-radius: 500px;
+
+}
+
+
+
+@keyframes sanp123 {
+  10% {
+    transform: scale(1, 00);
+  }
+
+
+
+
+
+
+}
+
+.shahokurdsh {
+  text-decoration: none;
+  color: black;
+
+
+
+}  
+  
+  
+  
+  
+}
+
+@media (min-width: 1200px) {
+  
+  
+  
+  
+  body {
+    background-image: linear-gradient(to left, #000046, #1CB5E0, #000046);
+    animation-name: isd;
+    animation-duration: 11s1s
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  .haw {
+    border: solid 0px;
+  
+  
+  
+  
+  }
+  
+  .icon {
+    border: solid 0px;
+  
+  
+  
+  
+  
+  }
+  
+  
+  .rasm {
+    height: 230px;
+  
+    border-radius: 500px;
+    position: relative;
+    animation-name: ops;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+  
+  
+  
+  }
+  
+  @keyframes ops {
+    10% {
+      transform: scale(1.11);
+      box-shadow: 0px 0px 100px 0px white;
+    }
+  
+  
+  
+  
+  
+  }
+  
+  
+  .text2 {
+    font-family: serif;
+    color: black;
+    font-size: 20px;
+    background: white;
+    padding-top: 9px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 9px;
+    border-radius: 50px;
+  
+  
+  }
+  
+  
+  
+  
+  
+  
+  .insta {
+    color: white;
+    font-size: 40px;
+    position: relative;
+    top: 150px;
+  
+    text-decoration: none;
+    padding-left: 70px;
+    padding-right: 80px;
+    top: 100px;
+  
+  
+  
+  }
+  
+  .hhr {
+    border: solid 3px white;
+    border-radius: 20px;
+  
+  }
+  
+  .jss {
+    height: 60px;
+    position: relative;
+  
+  
+  }
+  
+  .instakam {
+    border: solid 0px;
+    background: black;
+    border-radius: 40px;
+  
+  
+  
+  }
+  
+  .instpos {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    border-radius: 50px;
+  
+  }
+  
+  .op {
+    height: 40px;
+    position: relative;
+    top: 13px;
+    animation-name: itsa;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    border-radius: 500px;
+    left: 7px;
+  
+  }
+  
+  @keyframes itsa {
+    10% {
+      box-shadow: 0px 0px 20px 0px white;
+      transform: rotate(500deg);
+    }
+  
+    20% {
+      box-shadow: 0px 0px 20px 0px red;
+      transform: rotate(500deg);
+    }
+  
+    30% {
+      box-shadow: 0px 0px 20px 0px orange;
+      transform: rotate(500deg);
+    }
+  
+    40% {
+      box-shadow: 0px 0px 20px 0px skyblue;
+      transform: rotate(500deg);
+    }
+  
+  
+  
+  
+  
+  
+  }
+  
+  
+  
+  .exp {
+    color: black;
+    position: relative;
+    right: 200px;
+    font-size: 30px;
+    top: 170px;
+  
+  
+  
+  
+  }
+  
+  .instpos:hover {
+    color: yellow;
+  
+  }
+  
+  .opp {
+    height: 40px;
+    position: relative;
+    top: 12px;
+    border-radius: 50px;
+    left: 60px;
+    animation-name: usn;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+  
+  }
+  
+  @keyframes usn {
+  
+    10% {
+      box-shadow: 0px 0px 20px 0px red;
+      transform: rotate(500deg);
+    }
+  
+    20% {
+      box-shadow: 0px 0px 20px 0px white;
+      transform: rotate(500deg);
+    }
+  
+    30% {
+      box-shadow: 0px 0px 20px 0px skyblue;
+      transform: rotate(500deg);
+    }
+  
+    40% {
+      box-shadow: 0px 0px 20px 0px orange;
+      transform: rotate(500deg);
+    }
+  
+  }
+  
+  .iks {
+    height: 40px;
+    position: relative;
+    top: 7px;
+    right: 30px;
+    animation-name: insga;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    border-radius: 50px;
+  
+  }
+  
+  @keyframes insga {
+    10% {
+      transform: scale(1, 00);
+    }
+  
+  
+  
+  
+  
+  
+  }
+  
+  .mks {
+    height: 40px;
+    position: relative;
+    top: 7px;
+    left: 30px;
+    animation-name: snap123;
+    animation-iteration-count: infinite;
+    animation-duration: 1s;
+    border-radius: 500px;
+  
+  }
+  
+  
+  
+  @keyframes sanp123 {
+    10% {
+      transform: scale(1, 00);
+    }
+  
+  
+  
+  
+  
+  
+  }
+  
+  .shahokurdsh {
+    text-decoration: none;
+    color: black;
+  
+  
+  
+  }
+}
+
+
+
+@media (max-width: 575.98px) {
+
+  body {
+    background-image: linear-gradient(to left, #000046, #1CB5E0, #000046);
+    animation-name: isd;
+    animation-duration: 11s1s
+  }
+
+
+
+
+
+
+
+
+  .haw {
+    border: solid 0px;
+
+
+
+
+  }
+
+  .icon {
+    border: solid 0px;
+
+
+
+
+
+  }
+
+
+  .rasm {
+    height: 230px;
+
+    border-radius: 500px;
+    position: relative;
+    animation-name: ops;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+
+
+
+  }
+
+  @keyframes ops {
+    10% {
+      transform: scale(1.11);
+      box-shadow: 0px 0px 100px 0px white;
+    }
+
+
+
+
+
+  }
+
+
+  .text2 {
+    font-family: serif;
+    color: black;
+    font-size: 20px;
+    background: white;
+    padding-top: 9px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 9px;
+    border-radius: 50px;
+
+
+  }
+
+
+
+
+
+
+  .insta {
+    color: white;
+    font-size: 40px;
+    position: relative;
+    top: 150px;
+
+    text-decoration: none;
+    padding-left: 70px;
+    padding-right: 80px;
+    top: 100px;
+
+
+
+  }
+
+  .hhr {
+    border: solid 3px white;
+    border-radius: 20px;
+
+  }
+
+  .jss {
+    height: 60px;
+    position: relative;
+
+
+  }
+
+  .instakam {
+    border: solid 0px;
+    background: black;
+    border-radius: 40px;
+
+
+
+  }
+
+  .instpos {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    border-radius: 50px;
+
+  }
+
+  .op {
+    height: 40px;
+    position: relative;
+    top: 13px;
+    animation-name: itsa;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    border-radius: 500px;
+    left: 7px;
+
+  }
+
+  @keyframes itsa {
+    10% {
+      box-shadow: 0px 0px 20px 0px white;
+      transform: rotate(500deg);
+    }
+
+    20% {
+      box-shadow: 0px 0px 20px 0px red;
+      transform: rotate(500deg);
+    }
+
+    30% {
+      box-shadow: 0px 0px 20px 0px orange;
+      transform: rotate(500deg);
+    }
+
+    40% {
+      box-shadow: 0px 0px 20px 0px skyblue;
+      transform: rotate(500deg);
+    }
+
+
+
+
+
+
+  }
+
+
+
+  .exp {
+    color: black;
+    position: relative;
+    right: 200px;
+    font-size: 30px;
+    top: 170px;
+
+
+
+
+  }
+
+  .instpos:hover {
+    color: yellow;
+
+  }
+
+  .opp {
+    height: 40px;
+    position: relative;
+    top: 12px;
+    border-radius: 50px;
+    left: 60px;
+    animation-name: usn;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+
+  }
+
+  @keyframes usn {
+
+    10% {
+      box-shadow: 0px 0px 20px 0px red;
+      transform: rotate(500deg);
+    }
+
+    20% {
+      box-shadow: 0px 0px 20px 0px white;
+      transform: rotate(500deg);
+    }
+
+    30% {
+      box-shadow: 0px 0px 20px 0px skyblue;
+      transform: rotate(500deg);
+    }
+
+    40% {
+      box-shadow: 0px 0px 20px 0px orange;
+      transform: rotate(500deg);
+    }
+
+  }
+
+  .iks {
+    height: 40px;
+    position: relative;
+    top: 7px;
+    right: 30px;
+    animation-name: insga;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    border-radius: 50px;
+
+  }
+
+  @keyframes insga {
+    10% {
+      transform: scale(1, 00);
+    }
+
+
+
+
+
+
+  }
+
+  .mks {
+    height: 40px;
+    position: relative;
+    top: 7px;
+    left: 30px;
+    animation-name: snap123;
+    animation-iteration-count: infinite;
+    animation-duration: 1s;
+    border-radius: 500px;
+
+  }
+
+
+
+  @keyframes sanp123 {
+    10% {
+      transform: scale(1, 00);
+    }
+
+
+
+
+
+
+  }
+
+  .shahokurdsh {
+    text-decoration: none;
+    color: black;
+
+
+
+  }
+
+
+}
+
+@media (max-width: 767.98px) {
+  body {
+    background-image: linear-gradient(to left, #000046, #1CB5E0, #000046);
+    animation-name: isd;
+    animation-duration: 11s1s
+  }
+
+
+
+
+
+
+
+
+  .haw {
+    border: solid 0px;
+
+
+
+
+  }
+
+  .icon {
+    border: solid 0px;
+
+
+
+
+
+  }
+
+
+  .rasm {
+    height: 230px;
+
+    border-radius: 500px;
+    position: relative;
+    animation-name: ops;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+
+
+
+  }
+
+  @keyframes ops {
+    10% {
+      transform: scale(1.11);
+      box-shadow: 0px 0px 100px 0px white;
+    }
+
+
+
+
+
+  }
+
+
+  .text2 {
+    font-family: serif;
+    color: black;
+    font-size: 20px;
+    background: white;
+    padding-top: 9px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 9px;
+    border-radius: 50px;
+
+
+  }
+
+
+
+
+
+
+  .insta {
+    color: white;
+    font-size: 40px;
+    position: relative;
+    top: 150px;
+
+    text-decoration: none;
+    padding-left: 70px;
+    padding-right: 80px;
+    top: 100px;
+
+
+
+  }
+
+  .hhr {
+    border: solid 3px white;
+    border-radius: 20px;
+
+  }
+
+  .jss {
+    height: 60px;
+    position: relative;
+
+
+  }
+
+  .instakam {
+    border: solid 0px;
+    background: black;
+    border-radius: 40px;
+
+
+
+  }
+
+  .instpos {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    border-radius: 50px;
+
+  }
+
+  .op {
+    height: 40px;
+    position: relative;
+    top: 13px;
+    animation-name: itsa;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    border-radius: 500px;
+    left: 7px;
+
+  }
+
+  @keyframes itsa {
+    10% {
+      box-shadow: 0px 0px 20px 0px white;
+      transform: rotate(500deg);
+    }
+
+    20% {
+      box-shadow: 0px 0px 20px 0px red;
+      transform: rotate(500deg);
+    }
+
+    30% {
+      box-shadow: 0px 0px 20px 0px orange;
+      transform: rotate(500deg);
+    }
+
+    40% {
+      box-shadow: 0px 0px 20px 0px skyblue;
+      transform: rotate(500deg);
+    }
+
+
+
+
+
+
+  }
+
+
+
+  .exp {
+    color: black;
+    position: relative;
+    right: 200px;
+    font-size: 30px;
+    top: 170px;
+
+
+
+
+  }
+
+  .instpos:hover {
+    color: yellow;
+
+  }
+
+  .opp {
+    height: 40px;
+    position: relative;
+    top: 12px;
+    border-radius: 50px;
+    left: 60px;
+    animation-name: usn;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+
+  }
+
+  @keyframes usn {
+
+    10% {
+      box-shadow: 0px 0px 20px 0px red;
+      transform: rotate(500deg);
+    }
+
+    20% {
+      box-shadow: 0px 0px 20px 0px white;
+      transform: rotate(500deg);
+    }
+
+    30% {
+      box-shadow: 0px 0px 20px 0px skyblue;
+      transform: rotate(500deg);
+    }
+
+    40% {
+      box-shadow: 0px 0px 20px 0px orange;
+      transform: rotate(500deg);
+    }
+
+  }
+
+  .iks {
+    height: 40px;
+    position: relative;
+    top: 7px;
+    right: 30px;
+    animation-name: insga;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    border-radius: 50px;
+
+  }
+
+  @keyframes insga {
+    10% {
+      transform: scale(1, 00);
+    }
+
+
+
+
+
+
+  }
+
+  .mks {
+    height: 40px;
+    position: relative;
+    top: 7px;
+    left: 30px;
+    animation-name: snap123;
+    animation-iteration-count: infinite;
+    animation-duration: 1s;
+    border-radius: 500px;
+
+  }
+
+
+
+  @keyframes sanp123 {
+    10% {
+      transform: scale(1, 00);
+    }
+
+
+
+
+
+
+  }
+
+  .shahokurdsh {
+    text-decoration: none;
+    color: black;
+
+
+
+  }
+
+
+}
+
+
+@media (max-width: 991.98px) {
+
+
+  body {
+    background-image: linear-gradient(to left, #000046, #1CB5E0, #000046);
+    animation-name: isd;
+    animation-duration: 11s1s
+  }
+
+
+
+
+
+
+
+
+  .haw {
+    border: solid 0px;
+
+
+
+
+  }
+
+  .icon {
+    border: solid 0px;
+
+
+
+
+
+  }
+
+
+  .rasm {
+    height: 230px;
+
+    border-radius: 500px;
+    position: relative;
+    animation-name: ops;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+
+
+
+  }
+
+  @keyframes ops {
+    10% {
+      transform: scale(1.11);
+      box-shadow: 0px 0px 100px 0px white;
+    }
+
+
+
+
+
+  }
+
+
+  .text2 {
+    font-family: serif;
+    color: black;
+    font-size: 20px;
+    background: white;
+    padding-top: 9px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 9px;
+    border-radius: 50px;
+
+
+  }
+
+
+
+
+
+
+  .insta {
+    color: white;
+    font-size: 40px;
+    position: relative;
+    top: 150px;
+
+    text-decoration: none;
+    padding-left: 70px;
+    padding-right: 80px;
+    top: 100px;
+
+
+
+  }
+
+  .hhr {
+    border: solid 3px white;
+    border-radius: 20px;
+
+  }
+
+  .jss {
+    height: 60px;
+    position: relative;
+
+
+  }
+
+  .instakam {
+    border: solid 0px;
+    background: black;
+    border-radius: 40px;
+
+
+
+  }
+
+  .instpos {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    border-radius: 50px;
+
+  }
+
+  .op {
+    height: 40px;
+    position: relative;
+    top: 13px;
+    animation-name: itsa;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    border-radius: 500px;
+    left: 7px;
+
+  }
+
+  @keyframes itsa {
+    10% {
+      box-shadow: 0px 0px 20px 0px white;
+      transform: rotate(500deg);
+    }
+
+    20% {
+      box-shadow: 0px 0px 20px 0px red;
+      transform: rotate(500deg);
+    }
+
+    30% {
+      box-shadow: 0px 0px 20px 0px orange;
+      transform: rotate(500deg);
+    }
+
+    40% {
+      box-shadow: 0px 0px 20px 0px skyblue;
+      transform: rotate(500deg);
+    }
+
+
+
+
+
+
+  }
+
+
+
+  .exp {
+    color: black;
+    position: relative;
+    right: 200px;
+    font-size: 30px;
+    top: 170px;
+
+
+
+
+  }
+
+  .instpos:hover {
+    color: yellow;
+
+  }
+
+  .opp {
+    height: 40px;
+    position: relative;
+    top: 12px;
+    border-radius: 50px;
+    left: 60px;
+    animation-name: usn;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+
+  }
+
+  @keyframes usn {
+
+    10% {
+      box-shadow: 0px 0px 20px 0px red;
+      transform: rotate(500deg);
+    }
+
+    20% {
+      box-shadow: 0px 0px 20px 0px white;
+      transform: rotate(500deg);
+    }
+
+    30% {
+      box-shadow: 0px 0px 20px 0px skyblue;
+      transform: rotate(500deg);
+    }
+
+    40% {
+      box-shadow: 0px 0px 20px 0px orange;
+      transform: rotate(500deg);
+    }
+
+  }
+
+  .iks {
+    height: 40px;
+    position: relative;
+    top: 7px;
+    right: 30px;
+    animation-name: insga;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    border-radius: 50px;
+
+  }
+
+  @keyframes insga {
+    10% {
+      transform: scale(1, 00);
+    }
+
+
+
+
+
+
+  }
+
+  .mks {
+    height: 40px;
+    position: relative;
+    top: 7px;
+    left: 30px;
+    animation-name: snap123;
+    animation-iteration-count: infinite;
+    animation-duration: 1s;
+    border-radius: 500px;
+
+  }
+
+
+
+  @keyframes sanp123 {
+    10% {
+      transform: scale(1, 00);
+    }
+
+
+
+
+
+
+  }
+
+  .shahokurdsh {
+    text-decoration: none;
+    color: black;
+
+
+
+  }
+
+
+}
+
+@media (max-width: 1199.98px) {
+
+  body {
+    background-image: linear-gradient(to left, #000046, #1CB5E0, #000046);
+    animation-name: isd;
+    animation-duration: 11s1s
+  }
+
+
+
+
+
+
+
+
+  .haw {
+    border: solid 0px;
+
+
+
+
+  }
+
+  .icon {
+    border: solid 0px;
+
+
+
+
+
+  }
+
+
+  .rasm {
+    height: 230px;
+
+    border-radius: 500px;
+    position: relative;
+    animation-name: ops;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+
+
+
+  }
+
+  @keyframes ops {
+    10% {
+      transform: scale(1.11);
+      box-shadow: 0px 0px 100px 0px white;
+    }
+
+
+
+
+
+  }
+
+
+  .text2 {
+    font-family: serif;
+    color: black;
+    font-size: 20px;
+    background: white;
+    padding-top: 9px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 9px;
+    border-radius: 50px;
+
+
+  }
+
+
+
+
+
+
+  .insta {
+    color: white;
+    font-size: 40px;
+    position: relative;
+    top: 150px;
+
+    text-decoration: none;
+    padding-left: 70px;
+    padding-right: 80px;
+    top: 100px;
+
+
+
+  }
+
+  .hhr {
+    border: solid 3px white;
+    border-radius: 20px;
+
+  }
+
+  .jss {
+    height: 60px;
+    position: relative;
+
+
+  }
+
+  .instakam {
+    border: solid 0px;
+    background: black;
+    border-radius: 40px;
+
+
+
+  }
+
+  .instpos {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    border-radius: 50px;
+
+  }
+
+  .op {
+    height: 40px;
+    position: relative;
+    top: 13px;
+    animation-name: itsa;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    border-radius: 500px;
+    left: 7px;
+
+  }
+
+  @keyframes itsa {
+    10% {
+      box-shadow: 0px 0px 20px 0px white;
+      transform: rotate(500deg);
+    }
+
+    20% {
+      box-shadow: 0px 0px 20px 0px red;
+      transform: rotate(500deg);
+    }
+
+    30% {
+      box-shadow: 0px 0px 20px 0px orange;
+      transform: rotate(500deg);
+    }
+
+    40% {
+      box-shadow: 0px 0px 20px 0px skyblue;
+      transform: rotate(500deg);
+    }
+
+
+
+
+
+
+  }
+
+
+
+  .exp {
+    color: black;
+    position: relative;
+    right: 200px;
+    font-size: 30px;
+    top: 170px;
+
+
+
+
+  }
+
+  .instpos:hover {
+    color: yellow;
+
+  }
+
+  .opp {
+    height: 40px;
+    position: relative;
+    top: 12px;
+    border-radius: 50px;
+    left: 60px;
+    animation-name: usn;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+
+  }
+
+  @keyframes usn {
+
+    10% {
+      box-shadow: 0px 0px 20px 0px red;
+      transform: rotate(500deg);
+    }
+
+    20% {
+      box-shadow: 0px 0px 20px 0px white;
+      transform: rotate(500deg);
+    }
+
+    30% {
+      box-shadow: 0px 0px 20px 0px skyblue;
+      transform: rotate(500deg);
+    }
+
+    40% {
+      box-shadow: 0px 0px 20px 0px orange;
+      transform: rotate(500deg);
+    }
+
+  }
+
+  .iks {
+    height: 40px;
+    position: relative;
+    top: 7px;
+    right: 30px;
+    animation-name: insga;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    border-radius: 50px;
+
+  }
+
+  @keyframes insga {
+    10% {
+      transform: scale(1, 00);
+    }
+
+
+
+
+
+
+  }
+
+  .mks {
+    height: 40px;
+    position: relative;
+    top: 7px;
+    left: 30px;
+    animation-name: snap123;
+    animation-iteration-count: infinite;
+    animation-duration: 1s;
+    border-radius: 500px;
+
+  }
+
+
+
+  @keyframes sanp123 {
+    10% {
+      transform: scale(1, 00);
+    }
+
+
+
+
+
+
+  }
+
+  .shahokurdsh {
+    text-decoration: none;
+    color: black;
+
+
+
+  }
+
+
+}
